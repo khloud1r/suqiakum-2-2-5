@@ -93,6 +93,7 @@
 		D74DB620240DB15E002333F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D74DB61F240DB15E002333F5 /* AppDelegate.swift */; };
 		D74DB627240DB160002333F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D74DB626240DB160002333F5 /* Assets.xcassets */; };
 		D74DB62A240DB160002333F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D74DB628240DB160002333F5 /* LaunchScreen.storyboard */; };
+		D79F1EFD242A8BC700C9AB83 /* pointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79F1EFC242A8BC700C9AB83 /* pointViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -186,6 +187,7 @@
 		D74DB626240DB160002333F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D74DB629240DB160002333F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D74DB62B240DB160002333F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D79F1EFC242A8BC700C9AB83 /* pointViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pointViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -496,6 +498,7 @@
 				7457D92524176A5D00073F01 /* NetworkApi */,
 				D71BD6FD240DB892004BE584 /* Controller */,
 				D74DB61F240DB15E002333F5 /* AppDelegate.swift */,
+				D79F1EFC242A8BC700C9AB83 /* pointViewController.swift */,
 				D74DB626240DB160002333F5 /* Assets.xcassets */,
 				D74DB628240DB160002333F5 /* LaunchScreen.storyboard */,
 				D71458E7241593C500864447 /* coredata.xcdatamodeld */,
@@ -693,6 +696,7 @@
 				D71458E9241593C500864447 /* coredata.xcdatamodeld in Sources */,
 				74EB80B82416A411009E2612 /* CartTVC.swift in Sources */,
 				74EB80C22416A5CF009E2612 /* UIButton+Extensions.swift in Sources */,
+				D79F1EFD242A8BC700C9AB83 /* pointViewController.swift in Sources */,
 				74B900AA241A69FF00115057 /* ProfileSettingVC.swift in Sources */,
 				74B1FB442429E9B100A5AD7B /* OrderCell.swift in Sources */,
 				742778EE241D115B00DBEEB0 /* CustomTextField.swift in Sources */,
