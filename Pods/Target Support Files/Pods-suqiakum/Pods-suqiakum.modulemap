@@ -1,0 +1,6 @@
+framework module Pods_suqiakum {
+  umbrella header "Pods-suqiakum-umbrella.h"
+
+  export *
+  module * { export * }
+}

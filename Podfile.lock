@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (4.10.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SwiftMessages (6.0.0):
+    - SwiftMessages/App (= 6.0.0)
+  - SwiftMessages/App (6.0.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+  - ZDCChat (1.4.1):
+    - ZDCChat/API (= 1.4.1)
+    - ZDCChat/Localization (= 1.4.1)
+    - ZDCChat/UI (= 1.4.1)
+  - ZDCChat/API (1.4.1)
+  - ZDCChat/Localization (1.4.1)
+  - ZDCChat/UI (1.4.1):
+    - ZDCChat/API
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - NVActivityIndicatorView
+  - SwiftMessages (= 6.0.0)
+  - SwiftyJSON
+  - Toast-Swift
+  - ZDCChat
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - NVActivityIndicatorView
+    - SwiftMessages
+    - SwiftyJSON
+    - Toast-Swift
+    - ZDCChat
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SwiftMessages: da7c981256a65b3e58022d9027a36584cf4eccf5
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  ZDCChat: ead4909dceb46e82f7dbedf3a1721332e6df078e
+
+PODFILE CHECKSUM: 9368facfa762fa4a44b6632602c85ebcc48cfd70
+
+COCOAPODS: 1.9.1
